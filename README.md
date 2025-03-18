@@ -1,5 +1,5 @@
 <h6>Excel Dashboard Project</h6>
-<br>
+
 <h4>Project Overview</h4>
 <br>
 <body>This project is an interactive Excel dashboard designed to visualize and analyse [sales data]. The dashboard helps in gaining insights and making data-driven decisions.</body>
