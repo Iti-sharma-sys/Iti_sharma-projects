@@ -23,14 +23,14 @@
 •	Conditional Formatting
 <br>
 <h4>Sample Insights</h4>
-<body>Sample Insights
-	Women are more likely to buy as compared to men (≈65%)
+<body>s
+1.	Women are more likely to buy as compared to men (≈65%)
   <br>
-	Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (≈35%)
+2.Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (≈35%)
     <br>
-	Adult age group (39-40) is ma contributing (≈50%)
+3.	Adult age group (39-40) is ma contributing (≈50%)
     <br>
-	Amazon, Flipkart and Myntra are max contributing (≈80%)
+4.Amazon, Flipkart and Myntra are max contributing (≈80%)
   <br>
 <h3>Final Conclusion to improve Vrinda store sales:</h3>
    
