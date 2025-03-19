@@ -28,7 +28,7 @@
   <br>
 2.Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (≈35%)
     <br>
-3.	Adult age group (39-40) is ma contributing (≈50%)
+3.Adult age group (39-40) is ma contributing (≈50%)
     <br>
 4.Amazon, Flipkart and Myntra are max contributing (≈80%)
   <br>
